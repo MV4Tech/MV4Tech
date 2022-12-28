@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **marian.valchinov@gmail.com**
 
+- ⚡ Fun fact *Why be a Fiat when you can be a Ferrari*
+
 
 <p align="left">
 </p>
