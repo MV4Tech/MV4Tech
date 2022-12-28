@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.mos.cms.futurecdn.net/xpWxJjhpv7qNcfG5pJbxRV.jpg)
+![MasterHead](https://assets.rocketstock.com/uploads/2016/03/1-3NXEDMxxKzLeAxFSWUuCVg.gif)
 <h1 align="center">Hi 👋, I'm Mariyan Valchinov</h1>
 <h3 align="center">Knowledge is a treasure; the key to it is practice.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
