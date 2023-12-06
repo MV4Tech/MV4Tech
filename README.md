@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Studying**
 
-- 🌱 I’m currently learning **XAML, JAVA, Android, Spring, QA**
+- 🌱 I’m currently learning **JAVA, SPRING, REACT**
 
 - 💬 Ask me about **Anything**
 
