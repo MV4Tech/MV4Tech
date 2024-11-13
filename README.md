@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Studying**
 
-- 🌱 I’m currently learning **JAVA, SPRING,COMPUTER NETWORKS, REACT**
+- 🌱 I’m currently learning **TYPESCRIPT, JS, IO.SOCKETS, REACT**
 
 - 💬 Ask me about **Anything**
 
